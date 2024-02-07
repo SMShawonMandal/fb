@@ -23,7 +23,7 @@ function App() {
               </div>
               <div className="flex gap-2 text-blue-600">
                 <a href="#" className="hover:underline">Forgotten account?</a>
-                <a href="#" className="hover:underline">Sign Up for Facebook </a>
+                <a href="#" className="hover:underline">Sign Up for facebook </a>
               </div>
             </div>
           </form>
